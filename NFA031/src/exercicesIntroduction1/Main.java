@@ -1,4 +1,4 @@
-package TD1;
+package exercicesIntroduction1;
 
 public class Main {
 
